@@ -10,3 +10,4 @@ Content/Art
 *.user
 .DS_Store
 Thumbs.db
+/Content/.SynologyWorkingDirectory
