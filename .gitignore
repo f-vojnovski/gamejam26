@@ -1,0 +1,11 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.vcxproj*
+*.user
+.DS_Store
+Thumbs.db
